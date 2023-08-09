@@ -1,6 +1,6 @@
 ## Movie_App
 
-This is a simple movie app built using React. It allows users to browse and search for movies, view movie details, and explore different genres.
+This is a simple movie application built using React. It allows users to browse and search for movies, view movie details, and explore different genres.
 
 ### Features
 
